@@ -16,3 +16,7 @@ elif number ==7:
     print("Bal&Tips")
 else:
     print("Invalid MMI code")
+
+
+number =int(input(Enter USSID code))
+options=()
