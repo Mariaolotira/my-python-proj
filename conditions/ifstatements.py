@@ -18,5 +18,3 @@ else:
     print("Invalid MMI code")
 
 
-number =int(input(Enter USSID code))
-options=()
